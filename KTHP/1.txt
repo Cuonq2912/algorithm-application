@@ -1,0 +1,33 @@
+// tinh tong tat ca cac so trong mang a theo chia de tri, dequy
+// tinh tong tat ca cac so le trong mang a gom n so nguyen cdt, dq
+// tim kiem so thuc k theo cdt, dq
+// Tim max bang cdt, dq
+
+//Tham lam
+//lượng ít nhất các xe cần chọn để 
+//tổng tiền thu được (p) lớn hơn một giá trị cho trước (m).
+//Số lượng ít nhất các xe được chọn và tổng tiền thu được.
+
+//Tham lam
+//Tìm số lượng ít nhất các xe cần chọn để 
+//tổng tiền thu được (p) bằng chính xác giá trị m.
+//Số lượng ít nhất các xe được chọn hoặc kết luận không thể đạt được mục tiêu.
+
+//Tham lam
+//Tìm số lượng nhiều nhất các xe có thể chọn 
+//sao cho tổng tiền thu được (p) nhỏ hơn giá trị cho trước (m).
+//Số lượng nhiều nhất các xe được chọn hoặc kết luận không thể đạt được mục tiêu.
+
+// QHD
+//Tìm số lượng các xe được chọn 
+//sao cho tổng số chỗ ngồi không vượt quá giá trị (v) và tổng tiền thu được là lớn nhất.
+//Số lượng xe được chọn và tổng tiền thu được lớn nhất.
+
+//BMH
+//Tìm số lượng xe có tên chứa cụm từ "An"
+//trả về danh sách các vị trí của các xe đó trong mảng ban đầu.
+//Số lượng xe có tên chứa cụm từ "An" và các vị trí của chúng.
+
+//z_algo
+//Tìm số lượng xe có tên chứa cụm từ "An"
+// trả về danh sách thông tin của các xe đó.

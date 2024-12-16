@@ -1,0 +1,15 @@
+// Bài 1: Khởi tạo số nguyên dương k và mảng a gồm ít nhất 15 số nguyên. Tìm số nhỏ
+// nhất m trong mảng a sao cho m > k bằng chiến lược đệ quy/ chia để trị.
+
+// Bài 2: Cho danh sách d có n lớp học phần, mỗi lớp học gồm các thông tin: mã lớp, số
+// học sinh, số học sinh nữ. Cho một số nguyên dương n và một phòng học p gồm k chỗ ngồi.
+// Viết chương trình thực hiện:
+// Khởi tạo danh sách d gồm 7 đến 10 lớp học phần (ko nhập từ bàn phím), sao cho danh
+// sách được sắp xếp theo chiều giảm dần của số học sinh.
+// Sử dụng chiến lược tham lam: Cho biết cần lấy từ ít nhất bao nhiêu lớp trong danh sách
+// d để được số học sinh lớn hơn n.
+// Sử dụng quy hoạch động: Cần ghép những lớp nào vào phòng học p để được tổng số
+// học viên không vượt quá k mà tổng số học sinh nữ đạt được nhiều nhất.
+// Sử dụng thuật toán xử lý xâu ký tự để xác định một xâu s có phải là xâu con của một
+// xâu st hay không. Hiển thị thông tin các lớp học phần thuộc ngành công nghệ thông tin
+// (mã lớp có chứa “it”).
